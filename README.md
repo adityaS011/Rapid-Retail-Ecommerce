@@ -1,4 +1,4 @@
-# Raped-Retail-Ecommerce
+# Rapid-Retail-Ecommerce
 ![](https://github.com/adityaS011/Raped-Retail-Ecommerce/blob/main/public/screenshot.png)
 Welcome to Rapid Retail E-Commerce, a responsive and feature-rich e-commerce application built with React, Bootstrap, and ReactDOM.
 
