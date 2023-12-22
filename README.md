@@ -37,5 +37,5 @@ Rapid Retail E-Commerce is designed to provide a seamless shopping experience fo
    ```bash
    npm start
 
-
-
+License
+This project is licensed under the MIT [License](https://github.com/adityaS011/Raped-Retail-Ecommerce/blob/main/License).
