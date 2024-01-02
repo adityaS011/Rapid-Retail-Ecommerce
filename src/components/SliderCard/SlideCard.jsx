@@ -1,22 +1,22 @@
+import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
 import "./slidercard.css";
-
-const SlideCard = ({title,desc,cover}) => {
+import { Link } from "react-router-dom";
+const SlideCard = ({ title, desc, cover }) => {
   return (
-      <Container className='box' >
-        <Row>
-          <Col md={6}>
-            <h1>{title}</h1>
-            <p>{desc}</p>
-            <button className='btn-primary'>Visit Collections</button>
-          </Col>
-          <Col md={6}>
-            <img src={cover} alt="#" />
-          </Col>
-        </Row>
-
+    <Container className='box bg-light p-4'>
+      <Row>
+        <Col md={7}>
+          <h1 className='text-dark'>{title}</h1>
+          <p className='text-muted'>{desc}</p>
+         <Link to="/shop"><button className='btn btn-primary'>Visit Collections</button></Link> 
+        </Col>
+        <Col md={5}>
+          <img src={cover} alt="#" className='img-fluid' />
+        </Col>
+      </Row>
     </Container>
-  )
+  );
 }
 
-export default SlideCard
+export default SlideCard;

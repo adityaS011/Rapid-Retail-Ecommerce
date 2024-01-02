@@ -35,28 +35,28 @@ import watchSlide from "../Images/watch-07.png";
 
 export const SliderData = [
   {
-      id: 1,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: sofaSlide,
+    id: 1,
+    title: "Upgrade Your Lifestyle with Antique Watches",
+    desc: "Explore our exquisite collection of antique watches. Elevate your style with our premium, royal, and stylish timepieces. Enjoy a 50% discount on your first purchase.",
+    cover: watch01,
   },
   {
-      id: 2,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: phone08,
+    id: 2,
+    title: "Stay Connected with the Latest Smartphones",
+    desc: "Explore our range of cutting-edge smartphones. Experience top-notch features and performance. Get a 50% discount on your first smartphone purchase.",
+    cover: phone08,
   },
   {
-      id: 3,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: wireless01,
+    id: 3,
+    title: "Immersive Audio Experience with Wireless Headphones",
+    desc: "Immerse yourself in crystal-clear sound with our wireless headphones. Enjoy the freedom of wireless audio. Avail a 50% discount on your first order.",
+    cover: wireless01,
   },
   {
-      id: 4,
-      title: "50% Off For Your First Shopping",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis lobortis consequat eu, quam etiam at quis ut convallis.",
-      cover: watchSlide,
+    id: 4,
+    title: "Elevate Your Style with Elegant Watches",
+    desc: "Enhance your wrist with our timeless collection of watches. Experience luxury and precision. Grab a 50% discount on your first watch purchase.",
+    cover: watchSlide,
   },
 ];
 

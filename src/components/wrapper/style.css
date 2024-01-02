@@ -1,6 +1,6 @@
 .wrapper {
   text-align: center;
-  background-color: white;
+  background-color: rgb(233, 247, 250);
 }
 
 .icon {
@@ -11,7 +11,7 @@
   align-items: center;
   border-radius: 50%;
   font-size: 25px;
-  background: #f3f5f9;
+  background: rgb(233, 247, 250);;
   margin: 20px auto;
 }
 
@@ -21,7 +21,8 @@
 
 .wrapper .feature {
   padding: 10px;
-  border: 4px solid white;
+  border: 4px solid rgb(233, 247, 250);
+  border-radius: 8%;
 }
 
 .wrapper .feature h3 {

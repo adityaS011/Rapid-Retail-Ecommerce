@@ -15,8 +15,7 @@ const Shop = () => {
 
   return (
     <Fragment>
-      <Banner title="product" />
-      <section className="filter-bar">
+      <section className="filter-bar hidden">
         <Container className="filter-bar-contianer">
           <Row className="justify-content-center">
             <Col md={4}>

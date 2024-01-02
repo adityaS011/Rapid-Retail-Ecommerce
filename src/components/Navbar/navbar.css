@@ -128,7 +128,9 @@
   position: relative !important;
   z-index: 3;
 }
-
+.user {
+  text-decoration: none;
+}
 .cart::before {
   content: attr(data-num);
   position: absolute;
