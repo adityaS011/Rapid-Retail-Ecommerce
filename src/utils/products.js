@@ -30,7 +30,7 @@ import wireless02 from "../Images/wireless-02.png";
 import wireless03 from "../Images/wireless-03.png";
 import wireless04 from "../Images/wireless-04.png";
 
-import sofaSlide from "../Images/hero-img.png";
+
 import watchSlide from "../Images/watch-07.png";
 
 export const SliderData = [
