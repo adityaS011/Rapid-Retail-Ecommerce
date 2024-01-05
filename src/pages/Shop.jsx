@@ -4,7 +4,6 @@ import SearchBar from "../components/SeachBar/SearchBar";
 import { Fragment, useState } from "react";
 import { products } from "../utils/products";
 import ShopList from "../components/ShopList";
-import Banner from "../components/Banner/Banner";
 import useWindowScrollToTop from "../hooks/useWindowScrollToTop";
 
 const Shop = () => {
